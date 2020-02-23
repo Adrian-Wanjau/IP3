@@ -87,6 +87,13 @@ body {
   color: #ffff;
   background-image: url("/home/hubba/Documents/IP3/assets/backgrounds/c_image.jpg");
 }
+.portfolio img{
+  width: 250px;
+  padding-top : 25px;
+  padding-bottom : 25px;
+  padding-left : 10px;
+  padding-right : 10px;
+}
 
 hr {
   box-sizing: content-box;
