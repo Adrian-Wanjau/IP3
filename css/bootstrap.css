@@ -78,14 +78,8 @@ body {
   padding: 35px;
 }
 
-.columnOne{
-  padding-left: 150px;
-  padding-right: 150px;
-  display: grid;
-}
-
-.inline{
-  display: flex;
+.portfolio:hover img{
+  border: 2px blue;
 }
 
 .services{
@@ -139,6 +133,14 @@ body {
 }
 
 .columnshowing {
+  display: none;
+}
+
+.columnshowing2 {
+  display: none;
+}
+
+.columnshowing3 {
   display: none;
 }
 
