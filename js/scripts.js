@@ -1,15 +1,14 @@
+/*Businesslogic*/
+function results(){
+    var name = (document.getElementById("name").value); 
+
+    alert("Thank You " + name + " for giving us the feedback")
+}
+
+/*UI logic*/
 $(document).ready(function() {
-    $(".design").click(function() {
-        $(".columnone").toggle();
+    $(".clickable").click(function() {
         $(".columnshowing").toggle();
-    });
-    $(".development").click(function() {
-        $(".columnone").toggle();
-        $(".columnshowing").toggle();
-      });
-    $(".product").click(function() {
-        $(".columnone").toggle();
-        $(".columnshowing").toggle();
+        $(".columnone img").toggle();
     });
   });
-  
