@@ -70,11 +70,22 @@ body {
 .intro{
   color: #ffff;
   padding: 200px;
+  padding-bottom: 40px;
   background-image: url("../assets/backgrounds/h_img.jpg");
 }
 
 .about{
   padding: 35px;
+}
+
+.columnOne{
+  padding-left: 150px;
+  padding-right: 150px;
+  display: grid;
+}
+
+.actions{
+  display: flex;
 }
 
 .services{
@@ -93,6 +104,19 @@ body {
   padding-bottom : 25px;
   padding-left : 10px;
   padding-right : 10px;
+}
+
+.media img{
+  padding-left : 10px;
+  padding-right : 10px;
+}
+
+.media{
+  padding-left : 25%;
+}
+
+.end{
+  font-size: 3mm;
 }
 
 hr {
