@@ -1,4 +1,4 @@
-/*Businesslogic*/
+/*Business logic*/
 function results(){
     var name = (document.getElementById("name").value); 
 
@@ -7,8 +7,16 @@ function results(){
 
 /*UI logic*/
 $(document).ready(function() {
-    $(".clickable").click(function() {
+    $(".clickable1").click(function() {
         $(".columnshowing").toggle();
         $(".columnone img").toggle();
+    });
+    $(".clickable2").click(function() {
+        $(".columnshowing2").toggle();
+        $(".columnone2 img").toggle();
+    });
+    $(".clickable3").click(function() {
+        $(".columnshowing3").toggle();
+        $(".columnone3 img").toggle();
     });
   });
