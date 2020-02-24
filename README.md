@@ -7,7 +7,7 @@ The Author of this project is a student at Moringa School currently taking part 
 This is a webpage in which contains all the work I have done during my third week of learning at [MORINGA School](https://moringaschool.com/). It used Javascript Query, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/). The webpage shows the user details about the Delani Studio and allows him/her to easily navigate it. It also allows the user to input their contact info and he/she get an alert saying it was saved. It also allows the user to click some images in order to veiw more content or hide it.
 Here is the [Live Site](https://Adrian-Wanjau.github.io/IP3)
 
-## Setup/Installation Requirements
+## SETUP/INSTALLMENT REQUIREMENTS
 Clone this Repository onto your device then open the file and it will lead you to the Webpage.
 
 ## TECHNOLOGIES USED
@@ -20,4 +20,4 @@ Phone Number: 0704204925
 Email : adrianhubba@gmail.com
 
 ## LICENSE
-You can find the License [Here](../LICENSE)
+You can find the License [Here](../master/LICENSE)
